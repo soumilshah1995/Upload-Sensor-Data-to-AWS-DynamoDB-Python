@@ -3,7 +3,7 @@ This Project I will show you how to upload sensor data on AWS DynamoDB with pyth
 
 
 
-Tutorial 1 :
+Tutorial 1 :  https://youtu.be/gQLEOyBK6fg
 
 
 
