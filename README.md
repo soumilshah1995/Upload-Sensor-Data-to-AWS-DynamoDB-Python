@@ -2,7 +2,7 @@
 This Project I will show you how to upload sensor data on AWS DynamoDB with python. We will use Raspberry and DHT -11 Sensor to upload the Data on AWS 
 
 
-
+# please check out PDF for Text Based Tutorial Step by Step with Screen Shots 
 Tutorial 1 :  https://youtu.be/gQLEOyBK6fg
 
 
