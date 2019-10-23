@@ -5,7 +5,9 @@ This Project I will show you how to upload sensor data on AWS DynamoDB with pyth
 ## [please check out PDF for Text Based Tutorial Step by Step with Screen Shots](https://github.com/soumilshah1995/Upload-Sensor-Data-to-AWS-DynamoDB-Python/blob/master/Getting%20started%20with%20DynamoDB%20Python%20SDK%20setp%20by%20Step.pdf)
 
 Tutorial 1 :  https://youtu.be/gQLEOyBK6fg
-
+Tutorial 2 :  https://www.youtube.com/watch?v=aMQT6qcyS94&list=PLL2hlSFBmWwx7AFCvrurMhUOJc7kc0ynP&index=2
+Tutorial 3:    https://www.youtube.com/watch?v=bxRLNw-3SdY&list=PLL2hlSFBmWwx7AFCvrurMhUOJc7kc0ynP&index=3
+Tutorial 4:    https://www.youtube.com/watch?v=gQLEOyBK6fg&list=PLL2hlSFBmWwx7AFCvrurMhUOJc7kc0ynP&index=4
 
 
 
